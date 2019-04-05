@@ -64,7 +64,7 @@ limitations under the License.
         <attr name="dividerDrawableHorizontal" format="reference" />
         <attr name="dividerDrawableVertical" format="reference" />
 
-        <attr name="showDivider">
+        <attr name="showDividerAll">
             <flag name="none" value="0" />
             <flag name="beginning" value="1" />
             <flag name="middle" value="2" />
